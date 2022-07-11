@@ -10,7 +10,7 @@
 
  
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA and HTML+CSS**
 
  
 
@@ -26,8 +26,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/hemanth-vishwakarma-1253a9146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth vishwakarma" height="30" width="40" /></a>
-
+<a href="https:
 </p>
 
 <h3>Some of my projects:-</h3>

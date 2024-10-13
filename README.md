@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Somlatha Vishwakarma</h1>
+<body style = background-color: pink>
+<h1 align="center">Hi 👋, I'am Somlatha Vishwakarma</h1>
 
 <h3 align="center"></h3>
 
@@ -25,6 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
+</body>
 
 <a href="https:www.github.com/Somlatha>
 </p>
